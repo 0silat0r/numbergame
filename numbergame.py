@@ -14,9 +14,9 @@ try:
     playername = input("Please Insert Your Name: ")
 
     cleanscreen()
-    print("welcome...")
+    print("Welcome...")
     time.sleep(1)
-    print("please hold on...")
+    print("Please Hold On...")
     time.sleep(1)
     cleanscreen()
 
@@ -25,7 +25,7 @@ try:
     print("Programmer: Sh4d0wE4")
     print("---------------------------------------")
 
-    secim = input("1- Easy\n2- Normal\n3- Hard\nPlease make a choice: ")
+    secim = input("1- Easy\n2- Normal\n3- Hard\nPlease Make a Choice: ")
 
     if secim == "1":
         point = 100
