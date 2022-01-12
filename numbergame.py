@@ -1,4 +1,4 @@
-# Python 3.9 ile yazildi.
+# Written by Python3.9
 # Programmer: Sh4d0wE4
 
 import random
