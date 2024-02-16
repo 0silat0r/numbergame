@@ -1,9 +1,8 @@
-# numbergame1 installation guide
+# numbergame installation guide
 Dear user,
 Before using the application you need to execute the following commands:
 
 1- chmod 777 bash.sh
-
 2- pip install -r requirements.txt
 
 After these commands:
