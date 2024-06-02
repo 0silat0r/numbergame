@@ -1,5 +1,5 @@
 # Written by Python3.9
-# Programmer: Sh4d0wE4
+# Programmer: 0silat0r
 
 import random
 import time
